@@ -13,3 +13,15 @@
 # explosive nature of exponential growth, and to also 
 # demonstrate the use of the Ruby programming language
 # for such simulations.
+
+To run this simulation, you will need to have Ruby
+installed (at least version 1.9.2). For more information
+about Ruby and downloading it, see the language site at:
+http://www.ruby-lang.org/en/
+
+Then download this program and use a terminal application
+to go to the directory containing the simulator file.
+
+Then type: ruby e-growth-static_1_3_2.rb
+
+Subject to GNU license.
