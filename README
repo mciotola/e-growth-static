@@ -1,9 +1,15 @@
+
 #########################################################
 #                                                       #
-# Exponential Growth Simulator version 1.03             #
+# EXPONENTIAL GROWTH SIMULATOR  version 1.03            #
 #                                                       #
-# By Mark Ciotola; created 2011, last rev 17 Oct 2012   #
+# By Mark Ciotola; created 2011, last rev 22 Mar 2013   #
 #                                                       #
 #########################################################
 
+# Version 1.03.02  |  Written in Ruby 1.9.2
 
+# The purpose of this simulation is to both show the 
+# explosive nature of exponential growth, and to also 
+# demonstrate the use of the Ruby programming language
+# for such simulations.

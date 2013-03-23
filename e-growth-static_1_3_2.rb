@@ -2,7 +2,7 @@
 #                                                       #
 # EXPONENTIAL GROWTH SIMULATOR  version 1.03            #
 #                                                       #
-# By Mark Ciotola; created 2011, last rev 26 Oct 2012   #
+# By Mark Ciotola; created 2011, last rev 22 Mar 2013   #
 #                                                       #
 #########################################################
 
